@@ -1,0 +1,38 @@
+* {
+    margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body { 
+    font-family: 'Arial', sans-serif;
+    background: #e5dab1;
+    color: rgba(37, 34, 6, 0.658);
+    
+}
+
+header { 
+    background-color: rgb(240, 238, 222);
+    color: rgb(78, 63, 9);
+    text-align: center;
+    
+}
+
+nav a { 
+    margin: 0 15px;
+    text-decoration: none;
+    color: rgb(69, 45, 1);
+    font-weight: bold;
+}
+
+main{ 
+    padding: 40px;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+}
+
+
+
