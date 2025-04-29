@@ -1,19 +1,19 @@
 * {
-    margin: 20px;
+    margin: 10px;
     padding: 0;
     box-sizing: border-box;
 }
 
 body { 
     font-family: 'Arial', sans-serif;
-    background: #e5dab1;
-    color: rgba(37, 34, 6, 0.658);
+    background: #fde3e4;
+    color: rgb(91, 1, 50);
     
 }
 
 header { 
-    background-color: rgb(240, 238, 222);
-    color: rgb(78, 63, 9);
+    background-color: #f4a9d7;
+    color: rgb(200, 0, 116);
     text-align: center;
     
 }
@@ -21,7 +21,7 @@ header {
 nav a { 
     margin: 0 15px;
     text-decoration: none;
-    color: rgb(69, 45, 1);
+    color: rgb(33, 1, 16);
     font-weight: bold;
 }
 
@@ -32,7 +32,17 @@ main{
 
 footer {
     background-color: black;
+    text-align: center;
+    padding: 10px;
+    margin-top: 50px;
 }
+
+.destaque img {  
+    width: 300px;
+    margin-top: 0%;
+    border-radius: 10px;
+}
+
 
 
 
